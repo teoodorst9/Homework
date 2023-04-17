@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sleepy Tom Cat", "Sleepy Tom Cat\Sleepy Tom Cat.csproj", "{B1DDAC2F-6414-4436-9E15-4FF51BD3715B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1DDAC2F-6414-4436-9E15-4FF51BD3715B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1DDAC2F-6414-4436-9E15-4FF51BD3715B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1DDAC2F-6414-4436-9E15-4FF51BD3715B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1DDAC2F-6414-4436-9E15-4FF51BD3715B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C5AEBA0-63A5-4389-A7F5-98BC4316E212}
+	EndGlobalSection
+EndGlobal

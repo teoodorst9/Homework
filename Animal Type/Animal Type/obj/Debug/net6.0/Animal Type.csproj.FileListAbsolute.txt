@@ -1,0 +1,5 @@
+C:\Users\User\source\repos\Animal Type\Animal Type\obj\Debug\net6.0\Animal Type.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Animal Type\Animal Type\obj\Debug\net6.0\Animal Type.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Animal Type\Animal Type\obj\Debug\net6.0\Animal Type.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Animal Type\Animal Type\obj\Debug\net6.0\Animal Type.AssemblyInfo.cs
+C:\Users\User\source\repos\Animal Type\Animal Type\obj\Debug\net6.0\Animal Type.csproj.CoreCompileInputs.cache
